@@ -26,3 +26,7 @@ Il corso prevede i seguenti argomenti:
 Gli argomenti saranno distribuiti su 10 lezioni di 3 ore ciascuna
 
 A seconda dell'andamento del gruppo del corso verranno modulate quanto tempo dedicare a ciascun argomento
+
+I professori che vi guideranno in questa avventura:
+Prof. Palladino Marco
+Prof. Palitto Matteo
