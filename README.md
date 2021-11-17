@@ -30,3 +30,5 @@ A seconda dell'andamento del gruppo del corso verranno modulate quanto tempo ded
 I professori che vi guideranno in questa avventura:
 Prof. Palladino Marco
 Prof. Palitto Matteo
+
+test from info2
